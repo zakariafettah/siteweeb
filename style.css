@@ -1,0 +1,25 @@
+h1{
+    color: black;
+    text-shadow: 2px 5px 5px black;
+    margin-top: 80px;
+}
+
+body{
+    background-size: 100%;
+    background-repeat: initial;
+    background-image: url(image/22b045dd-13d1-42d4-b5dc-069b7ce382ae.jfif);
+}
+.a{
+    margin-top: 70px;
+    width: 700px;
+    height: 450px;
+    border-radius: 0px 100px 100px 100px;
+    box-shadow: 8px 8px 10px black;
+}
+.o{
+    text-shadow: 5px 8px 8px black;
+    font-size: 30px;
+}
+.png{
+    height: 35px;
+}
